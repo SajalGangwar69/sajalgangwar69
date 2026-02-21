@@ -20,15 +20,40 @@ I enjoy transforming ideas into visually compelling stories and functional web a
 
 ---
 
+
+
 ## 💼 Experience
 
-### Graphic Designer & Social Media Handler  
+### 🎨 Graphic Designer & Social Media Handler  
 **Hoverin Aerospace**
 
-- Designed creative digital assets and promotional materials  
-- Managed and handled social media presence  
-- Created engaging content strategies  
-- Worked on branding and visual identity  
+- Designed marketing creatives, posters, and branding materials  
+- Managed and handled official social media accounts  
+- Created engaging visual campaigns to increase reach and engagement  
+- Worked closely with the marketing team on brand positioning  
+
+---
+
+### 🚀 Founder & Lead Designer  
+**Aureole (My Own Brand)**
+
+- Built and developed brand identity from scratch  
+- Designed logo, social media creatives, and promotional materials  
+- Managed complete social media strategy and content creation  
+- Focused on aesthetic, minimal, and modern design concepts  
+- Handled branding, visual storytelling, and digital presence  
+
+---
+
+### 💻 Creative Designer  
+**Zephryx Tech**
+
+- Designed UI concepts and digital assets for tech-based projects  
+- Created social media creatives and promotional visuals  
+- Collaborated with developers to maintain consistent design systems  
+- Contributed to branding and user-focused design improvements  
+
+---
 
 ---
 
