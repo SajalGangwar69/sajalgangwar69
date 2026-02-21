@@ -1,31 +1,59 @@
 ![Sajal Gangwar](/assets/01.jpeg)
 
-Hello there! 👋 I'm Sajal Gangwar, an enthusiastic engineering student with a passion for technology and a knack for problem-solving. Currently pursuing Computer Science Engineering degree at Dr. Bhimrao Ambedkar University, Agra. I thrive on the challenges that the ever-evolving world of engineering presents.
+## Hello there 👋
 
-# Skills
-I am a designer and editor. I am currently an undergrad Engineering Student with a passion for transforming ideas into visually compelling stories.
-I have honed my skills in crafting captivating visuals and refining the finer details.
-Let's explore the intersection of code and design where innovation meets imagination
+I'm **Sajal Gangwar**, a passionate Computer Science Engineering student at Dr. Bhimrao Ambedkar University, Agra. I love building creative digital experiences where code meets design.
 
-## Project Highlights
+My main interest lies in **Designing**, crafting visually impactful and engaging content.
 
-#### EGAMING LEAGUE 2.O
-I am currently volunteering as Head of Social Media Team of Egaming Club of IET Khandari. We had hosted Egaming League 2.O, where we advocated and inspired students to 
-be part esports as well as develop video games. You can see my recent edits on this instagram handle.
+---
 
-- **Link:** [IET EGAMING CLUB](https://www.instagram.com/egamingiet/)
+## 🚀 Skills
 
-#### YOUTUBE
-You can also check my part time edits on my youtube channel.
+- 🎨 Graphic Designing  
+- 🌐 Full Stack Web Development  
+- 📱 Social Media Management  
+- 🎬 Visual Content Creation  
+- 🛡️ Basic Cyber Security Knowledge  
 
-- **Link:** [YOUTUBE](https://www.youtube.com/@rdx-warden8703)
+I enjoy transforming ideas into visually compelling stories and functional web applications.
 
-## Connect with me
-- **LinkedIn:** [sajal-gangwar](https://www.linkedin.com/in/sajal-gangwar-9b572929b/)
-- **Instagram** [btw_itz_sajall](https://www.instagram.com/btw_itz_sajall/)
+---
+
+## 💼 Experience
+
+### Graphic Designer & Social Media Handler  
+**Hoverin Aerospace**
+
+- Designed creative digital assets and promotional materials  
+- Managed and handled social media presence  
+- Created engaging content strategies  
+- Worked on branding and visual identity  
+
+---
+
+## 🏆 Project Highlights
+
+### EGAMING LEAGUE 2.0  
+Head of Social Media Team – Egaming Club of IET Khandari  
+
+- Led the complete social media campaign  
+- Promoted esports culture among students  
+- Managed design and content strategy  
+
+**Link:** [IET EGAMING CLUB](https://www.instagram.com/egamingiet/)
+
+---
+
+## 📺 YouTube
+
+You can check my creative edits here:  
+**Link:** [YouTube](https://www.youtube.com/@rdx-warden8703)
+
+---
+
+## 🤝 Connect with me
+
+- **LinkedIn:** [sajal-gangwar](https://www.linkedin.com/in/sajal-gangwar-9b572929b/)  
+- **Instagram:** [ck.sajall.fu](https://www.instagram.com/btw_itz_sajall/)  
 - **Email:** sajalgangwar2222@gmail.com
-
-
-Feel free to explore my projects and connect with me. I'm always open to collaboration and eager to learn from and contribute to the vibrant tech community!
-
-Let's connect. 
